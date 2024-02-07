@@ -449,8 +449,8 @@ h6,
 /*** Testimonial ***/
 
 .testimonial-carousel .owl-item img {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 500px;
 }
 
 .testimonial-carousel .owl-nav {
